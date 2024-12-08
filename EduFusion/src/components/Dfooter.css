@@ -1,0 +1,59 @@
+/* Login.css */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex: 1;
+}
+
+/* Dfooter.css */
+.Dfooter {
+    width: 100%;
+    height: auto;
+    
+    background-color: #888ff6;
+    border-radius: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.Dfooter p {
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left:25em;
+    margin-top: 0.5em;
+
+}
+
+@media (max-width: 768px) {
+    .Dfooter {
+        padding: 10px;
+    }
+
+    .Dfooter p {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .Dfooter {
+        padding: 5px;
+    }
+
+    .Dfooter p {
+        font-size: 0.8rem;
+    }
+}

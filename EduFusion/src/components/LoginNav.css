@@ -1,0 +1,76 @@
+.LoginNav {
+  margin: 5px;
+  height: 40px;
+  width: 40px;
+  /* margin-top: -30px; */
+}
+.LoginNav img {
+  margin: 5px;
+  margin-top: 10px;
+  height: 40px;
+  /* padding: 10px;
+padding-top: -5px; */
+  width: 40px;
+}
+h1 {
+  margin-left: 55px;
+  margin-top: -50px;
+}
+.fusion {
+  margin-left: 115px;
+  margin-top: -58px;
+}
+p {
+  font-weight: 100;
+  color: grey;
+  font-size: x-small;
+
+  width: 400px;
+  margin-left: 55px;
+  margin-top: -20px;
+}
+form {
+  margin: 200px;
+  margin-top: 150px;
+}
+form input {
+  height: 30px;
+  width: 200px;
+  border-radius: 1cap;
+  box-shadow: grey 5px 5px 5px;
+}
+form p {
+  margin-left: 140px;
+  margin-top: -33px;
+  opacity: 60%;
+  color: rgb(43, 7, 248);
+  font-size: xx-small;
+}
+form button {
+  height: 30px;
+  width: 80px;
+  margin-left: 65px;
+  background-color: #888ff6;
+  border-radius: 0.5cap;
+  /* box-shadow: grey 5px 5px 5px ; */
+  border: blue;
+}
+form button:hover {
+  /* background-color: #3442f9;
+     */
+  box-shadow: rgb(72, 52, 250) 5px 5px 20px;
+}
+
+.img2 {
+  border: #080808;
+  height: 400px;
+  width: 400px;
+  margin-top: -1500px;
+  margin-left: 800px;
+}
+.img2 img {
+  height: 400px;
+  width: 400px;
+  margin-top: 1000px;
+  margin-left: -100px;
+}
